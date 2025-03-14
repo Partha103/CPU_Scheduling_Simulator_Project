@@ -144,7 +144,7 @@ public class SchedulingGUI extends JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        JOptionPane.showMessageDialog(null, "Developers:\n\nParthasarathi Singh(CVR University).\nTamanna Jena(SOA University).");
+        JOptionPane.showMessageDialog(null, "Developers:\n\nParthasarathi Singh(2201020101).\nRakesh Dey(2201020112).\nSagar Kumar Behera(2201020116).\nGurudatta Mohanty(2201020715).");
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void nextStep2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nextStep2ActionPerformed
